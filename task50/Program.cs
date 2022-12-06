@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Введите колличество строк ");
+﻿Console.Clear();
+Console.WriteLine("Введите колличество строк ");
 int num1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите колличество столбцов ");
 int num2 = Convert.ToInt32(Console.ReadLine());
